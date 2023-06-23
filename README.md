@@ -1,8 +1,5 @@
 # first_C 
-Diary of my C study
-
-
-
+Diary of my C study <br>
 Used Visual studio code 
 
 비주얼 스튜디오 코드를 사용했으며
