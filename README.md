@@ -1,5 +1,5 @@
 # first_C
-Diary of my C study
+## Diary of my C study
 
 
 Used Visual studio code 
