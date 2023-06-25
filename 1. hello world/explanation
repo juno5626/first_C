@@ -11,3 +11,4 @@ hello world.c 분석
 c언어는 함수들의 조합으로 이루어져 있다.
 
 int main(void) - 함수의 선언 방식이다
+ 
